@@ -3,7 +3,7 @@ title: Consulting
 subtitle: Design & Engineering Services 
 layout: default
 modal-id: 2
-img: smac.png
+img: consulting.png
 thumbnail: consulting-thumbnail.png
 alt: image-alt
 category: Consulting
