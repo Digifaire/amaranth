@@ -3,7 +3,7 @@ title: Engineering Services
 subtitle: Engineering Asset Management
 layout: default
 modal-id: 3
-img: isc.png
+img: engineering.png
 thumbnail: engineering-thumbnail.png
 alt: image-alt
 category: Engineering
