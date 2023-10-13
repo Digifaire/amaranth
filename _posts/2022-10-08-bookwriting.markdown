@@ -1,12 +1,12 @@
 ---
-title: Books 
-subtitle: Fiction & Non-Fiction 
+title: Consulting 
+subtitle: Design & Engineering Services 
 layout: default
 modal-id: 2
 img: smac.png
-thumbnail: smac-thumbnail.png
+thumbnail: consulting-thumbnail.png
 alt: image-alt
-category: Book Writing
-description: Our hands-on, non-fiction book-writing program is designed for business processes innovation, to help professionals and firms achieve breakthroughs with business development and stakeholder engagement. The fiction writing program is for authors aspiring to indulge readers in wild flights of fantasy.
+category: Consulting
+description: We believe R&D in materials science is pivotal for industries, research, and innovation. We aspire to accelerate materials development, streamline processes, and resolve challenges, making us indispensable partners in the ever-evolving field of materials science.
 
 ---
