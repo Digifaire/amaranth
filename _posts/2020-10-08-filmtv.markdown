@@ -1,6 +1,6 @@
 ---
 title: Materials
-subtitle: Materials Supply
+subtitle: Industrial Supplies
 layout: default
 modal-id: 1
 img: materials.png
