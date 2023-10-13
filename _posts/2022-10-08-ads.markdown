@@ -1,12 +1,12 @@
 ---
-title: Ads & Sales
-subtitle: Deep Videos
+title: Engineering Services 
+subtitle: Engineering Asset Management
 layout: default
 modal-id: 3
 img: isc.png
-thumbnail: isc-thumbnail.png
+thumbnail: engineering-thumbnail.png
 alt: image-alt
-category: Advertising
-description: For your firm's mission and vision, craft powerful video ads for customers to discover product pages.     
+category: Engineering
+description: Engineering asset management services is an essential function in materials engineering. Best practices help optimize the materials lifecycle, minimize risks, and contribute to the efficient and sustainable use of assets, ensuring the reliability and performance of materials and infrastructure.   
 
 ---
