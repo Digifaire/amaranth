@@ -1,12 +1,12 @@
 ---
-title: Film & TV
-subtitle: Screenwriting
+title: Materials
+subtitle: Materials Supply
 layout: default
 modal-id: 1
 img: codify.png
-thumbnail: codify-thumbnail.png
+thumbnail: materials-thumbnail.png
 alt: image-alt
-category: Screenwriting
-description: Short- and long-form videos are must-have skillsets, for the modern business world. Gain mastery in stages, to win lucrative film and tv screenwriting gigs.
+category: Materials
+description: Biomaterials, chemicals, and materials supply play a central role in fostering a green economy. These materials not only reduce environmental harm but also enhance efficiency, durability, and safety, offering a brighter and more sustainable future for us all.
 
 ---
