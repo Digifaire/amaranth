@@ -7,6 +7,6 @@ img: materials.png
 thumbnail: materials-thumbnail.png
 alt: image-alt
 category: Materials
-description: Biomaterials, chemicals, and other supplies play a central role in fostering a green economy. Next-gen materials not only reduce environmental harm but also enhance efficiency, durability, and safety, thereby offering a brighter and more sustainable future for us all.
+description: Biomaterials, chemicals and other supplies play a central role in fostering a green economy. Next-gen materials not only reduce environmental harm but also enhance efficiency, durability and safety; thereby offering a brighter and more sustainable future for us all.
 
 ---
