@@ -7,6 +7,6 @@ img: engineering.png
 thumbnail: engineering-thumbnail.png
 alt: image-alt
 category: Engineering
-description: Engineering asset management is an essential function in materials engineering. Best practices help optimize each material's lifecycle, minimize risks, and contribute to the efficient and sustainable use of assets, thereby ensuring the reliability and performance of the systems.   
+description: Engineering asset management is an essential function in materials engineering. Best practices help optimize each material's lifecycle, minimize risks, and contribute to the efficient and sustainable use of assets, thereby ensuring the reliability and performance of systems.   
 
 ---
